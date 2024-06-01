@@ -1,0 +1,12 @@
+aniso8601
+click
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+MarkupSAfe
+pytz
+six
+SQLAlchemy
+Werkzeug
